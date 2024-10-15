@@ -17,7 +17,7 @@
 - [全景标注工具](https://531431988.github.io/project-demo/three-viewer/) 基于three的全景标注工具
 - [自定义表单工具](https://531431988.github.io/vue-form-creation/dist/) 18年农业项目自定义表单工具（支持无限嵌套）
 - [组件库](https://531431988.github.io/vue-component-library/dist/index.html#/) 18年后续因某些原因暂停了
-- [openlayers组件](https://531431988.github.io/openlayers/dist/) 18年接触GIS项目时简易封装的openlayers组件用与各项目开发（现在看来很烂）在未知的领域也能快速上手投入项目
+- [openlayers组件](https://531431988.github.io/vue-openlayers/dist/) 18年接触GIS项目时简易封装的openlayers组件用与各项目开发（现在看来很烂）在未知的领域也能快速上手投入项目
 
 ## 数据可视化
 
