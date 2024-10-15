@@ -13,10 +13,39 @@
 ## 工具组件演示（阉割版本，实际项目中更完善）
 
 - [移动端全景](https://531431988.github.io/project-demo/krpano/dist/) 可交互的全景展示，内部项目湖北交投上线
+<br />
+
+<img src="krpano/20241015181102.png" height="300" />
+<img src="krpano/20241015181131.png" height="300" />
+
 - [图片标注工具](https://531431988.github.io/project-demo/img-editor/) 基于图片的编辑工具
+<br />
+
+<img src="img-editor/20240506174422.jpg" width="500" />
+<img src="img-editor/20241015181158.png" width="500" />
+<img src="img-editor/20241015181207.png" width="500" />
+
 - [全景标注工具](https://531431988.github.io/project-demo/three-viewer/) 基于three的全景标注工具
+<br />
+
+<img src="three-viewer/20241015181221.png" width="500" />
+<img src="three-viewer/20241015181232.png" width="500" />
+<img src="three-viewer/20241015181241.png" width="500" />
+
 - [自定义表单工具](https://531431988.github.io/vue-form-creation/dist/) 18年农业项目自定义表单工具（支持无限嵌套）
+
+<br />
+
+<img src="20241015181251.png" width="500" />
+<img src="20241015181320.png" width="500" />
+<img src="20241015181348.png" width="500" />
+
 - [组件库](https://531431988.github.io/vue-component-library/dist/index.html#/) 18年后续因某些原因暂停了
+<br />
+
+<img src="20241015181359.png" width="500" />
+<img src="20241015181425.png" width="500" />
+
 - [openlayers组件](https://531431988.github.io/project-demo/vue-openlayers/) 18年接触GIS项目时简易封装的openlayers组件用与各项目开发（现在看来很烂）在未知的领域也能快速上手投入项目
 - [简易流程图](https://531431988.github.io/project-demo/flow-chart/dist) 东风惠州本田项目封装的流程图工具
 <img src="flow-chart/20241015180358.png" width="500" />
