@@ -29,7 +29,8 @@
 ## 管理后台
 
 - [某棉花管理平台](https://531431988.github.io/cotton/dist/) 19年开发内部系统，拆分基础演示  admin/admin
--
+- 黄石一套表平台 内部项目涉及核心业务不过多展示
+<img src="report/20241015174548.png" /><img src="report/20241015174613.png" />
 
 ## 小程序（APP）
 
