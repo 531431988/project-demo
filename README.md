@@ -70,7 +70,7 @@
 <source src="smart-campus/Tab-531431988.github.io_project-demo_smart-campus_.mp4" />
 </video>
 
-- [东风惠州本田智慧园区](https://531431988.github.io/project-demo/db-smart-park/dist) 东风惠州本田智慧园区基于微前端架构集成三方应用：捷顺门禁、大华摄像头、三方数据采集等功能，智慧园区为其中一小模块抽离出的3D演示（非正式效果）
+- [东风惠州本田智慧园区](https://531431988.github.io/project-demo/db-smart-park/) 东风惠州本田智慧园区基于微前端架构集成三方应用：捷顺门禁、大华摄像头、三方数据采集等功能，智慧园区为其中一小模块抽离出的3D演示（非正式效果）
 <br />
 
 <img src="db-smart-park/20241016140959.png"  width="300" />
