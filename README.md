@@ -12,20 +12,21 @@
 
 ## 工具组件演示（阉割版本，实际项目中更完善）
 
-- [移动端全景](https://531431988.github.io/project-demo/krpano/dist/) 可交互的全景展示，内部项目湖北交投上线
+- [排版编辑器](https://531431988.github.io/project-demo/layout-editor/dist/) 24年 因小程序项目需要图文排版工具，花3天做了个简单版本（演示版本与实际有区别）支持图文混版、word导入、自定义插入图片、视频、地图、直播等功能
 <br />
 
-<img src="krpano/20241015181102.png" height="300" />
-<img src="krpano/20241015181131.png" height="300" />
+<img src="layout-editor/20241022163436.png" height="300" />
+<img src="layout-editor/20241022163625.png" height="300" />
+<img src="layout-editor/20241022163814.png" height="300" />
 
-- [图片标注工具](https://531431988.github.io/project-demo/img-editor/) 基于图片的编辑工具
+- [图片标注工具](https://531431988.github.io/project-demo/img-editor/) 24年 基于图片的编辑工具
 <br />
 
 <img src="img-editor/20240506174422.jpg" width="300" />
 <img src="img-editor/20241015181158.png" width="300" />
 <img src="img-editor/20241015181207.png" width="300" />
 
-- [全景标注工具](https://531431988.github.io/project-demo/three-viewer/) 基于three的全景标注工具
+- [全景标注工具](https://531431988.github.io/project-demo/three-viewer/) 24年 基于three的全景标注工具
 <br />
 
 <img src="three-viewer/20241015181221.png" width="300" />
@@ -52,7 +53,7 @@
 <img src="vue-openlayers/20241016141732.png" width="300" />
 <img src="vue-openlayers/20241016141751.png" width="300" />
 
-- [简易流程图](https://531431988.github.io/project-demo/flow-chart/dist) 东风惠州本田项目封装的流程图工具
+- [简易流程图](https://531431988.github.io/project-demo/flow-chart/dist) 21年 东风惠州本田项目封装的流程图工具
 <br />
 
 <img src="flow-chart/20241015180358.png" width="300" />
@@ -70,7 +71,7 @@
 <source src="smart-campus/Tab-531431988.github.io_project-demo_smart-campus_.mp4" />
 </video>
 
-- [东风惠州本田智慧园区](https://531431988.github.io/project-demo/db-smart-park/) 东风惠州本田智慧园区基于微前端架构集成三方应用：捷顺门禁、大华摄像头、三方数据采集等功能，智慧园区为其中一小模块抽离出的3D演示（非正式效果）
+- [东风惠州本田智慧园区](https://531431988.github.io/project-demo/db-smart-park/) 21年 东风惠州本田智慧园区基于微前端架构集成三方应用：捷顺门禁、大华摄像头、三方数据采集等功能，智慧园区为其中一小模块抽离出的3D演示（非正式效果）
 <br />
 
 <img src="db-smart-park/20241016140959.png"  width="300" />
@@ -101,17 +102,30 @@
 <img src="20241016142212.png"  width="300" />
 <img src="20241016142227.png"  width="300" />
 
-- 黄石一套表平台 内部项目涉及核心业务不过多展示
+- 24年 黄石一套表平台 内部项目涉及核心业务不过多展示
 <br />
 
 <img src="report/20241015174548.png" width="300" /><img src="report/20241015174613.png" width="300" />
 
-## 小程序（APP）
+## 小程序（APP、H5）
 
-- 中钢安环院-已经上线可在小程序中搜索（内部应用需要登录使用，所以只能放部分设计界面），独立设计+开发，实际实现与设计有部分差异UI未做同步更新
-<img src="./zg.png" />
+- 24年 统战小程序（开发中）基于排版编辑器工具生成的代码在小程序解析
+<br />
 
-- 设备管理（小程序、APP）内部应用需要帐号，以截图演示
-<img src="./sbgl.png" />
+<img src="layout-editor/20241022164805.png" />
+
+<img src="layout-editor/20241022164825.png" />
+
+- 23年 中钢安环院-已经上线可在小程序中搜索（内部应用需要登录使用，所以只能放部分设计界面），独立设计+开发，实际实现与设计有部分差异UI未做同步更新
+<img src="zg.png" />
+
+- 23年 设备管理（小程序、APP）内部应用需要帐号，以截图演示
+<img src="sbgl.png" />
+
+- [移动端全景](https://531431988.github.io/project-demo/krpano/dist/) 20年 可交互的全景展示，内部项目湖北交投上线
+<br />
+
+<img src="krpano/20241015181102.png" height="300" />
+<img src="krpano/20241015181131.png" height="300" />
 
 - 还有其他小程序在开发中不便展示，后续更新
