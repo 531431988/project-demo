@@ -12,7 +12,7 @@
 
 ## 工具组件演示（阉割版本，实际项目中更完善）
 
-- [排版编辑器](https://531431988.github.io/project-demo/layout-editor/dist/) 24年 因小程序项目需要图文排版工具，花3天做了个简单版本（演示版本与实际有区别）支持图文混版、word导入、自定义插入图片、视频、地图、直播等功能
+- [排版编辑器](https://531431988.github.io/project-demo/layout-editor/dist/) 24年 因小程序项目需要图文排版工具，做了个简单版本（演示版本与实际有区别）支持图文混版、word导入、自定义插入图片、视频、SVG、地图、直播等功能，可模拟在线word
 <br />
 
 <img src="layout-editor/20241022163436.png" height="300" />
@@ -102,7 +102,7 @@
 <img src="20241016142212.png"  width="300" />
 <img src="20241016142227.png"  width="300" />
 
-- 24年 黄石一套表平台 内部项目涉及核心业务不过多展示
+- 24年 黄石一套表平台 内部项目涉及核心业务不过多展示 在线报表excel编辑（基于luckysheet定制开发）
 <br />
 
 <img src="report/20241015174548.png" width="300" /><img src="report/20241015174613.png" width="300" />
