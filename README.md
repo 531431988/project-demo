@@ -69,7 +69,7 @@
 <img src="smart-campus/20241016150459.png" width="300" />
 [视频预览]('smart-campus/Tab-531431988.github.io_project-demo_smart-campus_.mp4')
 <video width="300">
-<source src="smart-campus/Tab-531431988.github.io_project-demo_smart-campus_.mp4" />
+<source src="https://github.com/531431988/project-demo/smart-campus/Tab-531431988.github.io_project-demo_smart-campus_.mp4" />
 </video>
 
 - [东风惠州本田智慧园区](https://531431988.github.io/project-demo/db-smart-park/) 21年 东风惠州本田智慧园区基于微前端架构集成三方应用：捷顺门禁、大华摄像头、三方数据采集等功能，智慧园区为其中一小模块抽离出的3D演示（非正式效果）
@@ -110,7 +110,7 @@
 
 ## 小程序（APP、H5）
 
-- [24 年中建工地可视化演示]('中建-工地可视化.mp4')
+- [24 年中建工地可视化演示]('https://github.com/531431988/project-demo/中建-工地可视化.mp4')
 <video width="300">
 
 <source src="中建-工地可视化.mp4" />
