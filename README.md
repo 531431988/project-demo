@@ -10,6 +10,8 @@
 |  测 |   |   | 陪 |
 |  试 |   |   | 练 |
 
+### 持续整理更新中
+
 ## 数据可视化
 
 - [智慧校园数据可视化](https://531431988.github.io/project-demo/smart-campus/) 23年 独立的UI设计+前端开发配合unity工程师完成模型交互（模型较大受github影响加载非常慢）
@@ -27,6 +29,13 @@
 
 <img src="db-smart-park/20241016140959.png"  width="300" />
 <img src="db-smart-park/20241016141042.png"  width="300" />
+
+正式环境测试版（内网部署现在无法访问，实际模型有内部场景与交互）
+
+<img src="db-smart-park/智慧园-02智慧安防.png"  width="300" />
+<img src="db-smart-park/智慧园-03空间资产.png"  width="300" />
+<img src="db-smart-park/智慧园-04智慧环境.png"  width="300" />
+<img src="db-smart-park/智慧园-01智慧运营-监控弹窗.png"  width="300" />
 
 - [广东社会心理服务体系监控](https://531431988.github.io/GDPSM/index) 19年设计开发
 <br />
@@ -68,6 +77,8 @@
 <img src="layout-editor/20241022164805.png" />
 
 <img src="layout-editor/20241022164825.png" />
+<img src="layout-editor/微信截图_20241107091021.png" height="300" />
+<img src="layout-editor/微信截图_20241107091101.png" height="300" />
 
 - 23年 中钢安环院-已经上线可在小程序中搜索（内部应用需要登录使用，所以只能放部分设计界面），独立设计+开发，实际实现与设计有部分差异UI未做同步更新
 <img src="zg.png" />
@@ -80,6 +91,14 @@
 
 <img src="krpano/20241015181102.png" height="300" />
 <img src="krpano/20241015181131.png" height="300" />
+
+- [东风惠州本田智慧园区] 小程序更名找不到了，截几张设计图
+
+<img src="db-smart-park/首页.png" height="300" />
+<img src="db-smart-park/应用中心-新增车辆3.28.png" height="300" />
+<img src="db-smart-park/设备巡检.png" height="300" />
+<img src="db-smart-park/来访申请-添加后.png" height="300" />
+<img src="db-smart-park/会议室申请记录.png" height="300" />
 
 - 还有其他小程序在开发中不便展示，后续更新
 
