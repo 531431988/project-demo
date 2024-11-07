@@ -67,6 +67,7 @@
 <img src="smart-campus/20241016150442.png" width="300" />
 <img src="smart-campus/20241016150451.png" width="300" />
 <img src="smart-campus/20241016150459.png" width="300" />
+[视频预览]('smart-campus/Tab-531431988.github.io_project-demo_smart-campus_.mp4')
 <video width="300">
 <source src="smart-campus/Tab-531431988.github.io_project-demo_smart-campus_.mp4" />
 </video>
@@ -109,7 +110,7 @@
 
 ## 小程序（APP、H5）
 
-- 24 年中建工地可视化演示
+- [24 年中建工地可视化演示]('中建-工地可视化.mp4')
 <video width="300">
 
 <source src="中建-工地可视化.mp4" />
