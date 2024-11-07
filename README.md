@@ -20,8 +20,7 @@
 <img src="smart-campus/20241016150451.png" width="300" />
 <img src="smart-campus/20241016150459.png" width="300" />
 
-[视频预览](smart-campus/Tab-531431988.github.io_project-demo_smart-campus_.mp4)
-<iframe src="https://531431988.github.io/project-demo/smart-campus/Tab-531431988.github.io_project-demo_smart-campus_.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+[视频预览](https://531431988.github.io/project-demo/smart-campus/Tab-531431988.github.io_project-demo_smart-campus_.mp4)
 
 - [东风惠州本田智慧园区](https://531431988.github.io/project-demo/db-smart-park/) 21年 东风惠州本田智慧园区基于微前端架构集成三方应用：捷顺门禁、大华摄像头、三方数据采集等功能，智慧园区为其中一小模块抽离出的3D演示（非正式效果）
 <br />
@@ -61,9 +60,7 @@
 
 ## 小程序（APP、H5）
 
-- [24 年中建工地可视化演示](中建-工地可视化.mp4)
-
-<iframe src="https://531431988.github.io/project-demo/中建-工地可视化.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+- [24 年中建工地可视化演示](https://531431988.github.io/project-demo/中建-工地可视化.mp4)
 
 - 24年 统战小程序（开发中）基于排版编辑器工具生成富文本在小程序解析
 <br />
