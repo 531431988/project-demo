@@ -71,12 +71,17 @@
 
 - [24 年中建工地可视化演示](https://531431988.github.io/project-demo/中建-工地可视化.mp4)
 
-- 24年 统战小程序（开发中）基于排版编辑器工具生成富文本在小程序解析
+- 24年 统战小程序（开发中）基于[排版编辑器](https://531431988.github.io/project-demo/layout-editor/dist/)生成富文本在小程序解析
 <br />
 
+<img src="layout-editor/20241113140543.png" />
 <img src="layout-editor/20241022164805.png" />
-
+自定组件小程序、直播等在小程序解析跳转
 <img src="layout-editor/20241022164825.png" />
+基于表单设计工具生成动态表单在小程序解析
+<img src="layout-editor/20241113135427.png" />
+<img src="layout-editor/20241113140416.png" />
+
 <img src="layout-editor/微信截图_20241107091021.png" height="300" />
 <img src="layout-editor/微信截图_20241107091101.png" height="300" />
 
